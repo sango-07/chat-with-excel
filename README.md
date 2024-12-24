@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sango-07/chat-with-excel.git
    cd chat-with-excel
    ```
 2. Install dependencies:
