@@ -53,7 +53,7 @@ Refer to `requirements.txt` for the complete list of dependencies.
 Contributions are welcome! Feel free to fork the repository and create pull requests for enhancements or bug fixes.
 
 ## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
+This project is licensed under the MIT License.
 
 ## Contact
 For queries or support, please contact info.sangram@yahoo.com
